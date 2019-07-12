@@ -1,0 +1,22 @@
+{
+  "name": "simple-server",
+  "version": "1.0.0",
+  "description": "pertama percobaan",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysqli": "^3.0.6",
+    "nodemon": "^1.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "nopezi",
+  "license": "ISC"
+}
